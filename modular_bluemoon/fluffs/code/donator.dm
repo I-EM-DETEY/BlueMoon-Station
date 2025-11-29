@@ -1907,3 +1907,12 @@
 	slot = ITEM_SLOT_ICLOTHING
 	path = /obj/item/clothing/under/donator/bm/mk6_suit
 	ckeywhitelist = list("dragon9090")
+
+/datum/gear/donator/bm/apronchef_red
+	name = "Gubby Family Apron"
+	slot = ITEM_SLOT_OCLOTHING
+	path = /obj/item/clothing/suit/donator/bm/apronchef_red
+	category = LOADOUT_CATEGORY_DONATOR
+	subcategory = LOADOUT_SUBCATEGORIES_DON03
+	ckeywhitelist = list("Art_gel11")
+	donator_group_id = DONATOR_GROUP_TIER_1
