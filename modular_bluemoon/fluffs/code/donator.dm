@@ -692,7 +692,7 @@
 	path = /obj/item/clothing/accessory/hateredsoul_dogtag/syndie
 	ckeywhitelist = list("hateredsoul", "ggishka", "arion1234", "swgitty", "sw00ty", "kingdeaths", "sierraiv", "ordinarylife", "milidead", "blatoff")
 
-/datum/gear/donator/bm/paws_patch
+/datum/gear/donator/bm/SATTdogtag
 	name = "PAWS Patch"
 	slot = ITEM_SLOT_BACKPACK
 	path = /obj/item/clothing/accessory/paws_patch
@@ -919,7 +919,7 @@
 	name = "Red bra and striped skirt"
 	slot = ITEM_SLOT_ICLOTHING
 	path = /obj/item/clothing/under/donator/bm/braskirt
-	ckeywhitelist = list("deltarayx", "shizalrp")
+	ckeywhitelist = list("deltarayx")
 
 /datum/gear/donator/bm/mihana_mask
 	name = "Andromeda mask"
@@ -1571,7 +1571,7 @@
 /datum/gear/donator/bm/modsuit_anomalous
 	name = "anomalous mod suit"
 	slot = ITEM_SLOT_BACKPACK
-	path = /obj/item/mod/construction/armor/anomalous_archeotech
+	path = /obj/item/mod/control/pre_equipped/anomalous_archeotech
 	ckeywhitelist = list("1darkwater1")
 
 /datum/gear/donator/bm/ouroboroswinterschock

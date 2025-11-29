@@ -149,6 +149,14 @@
 	cost = 1
 	donator_group_id = DONATOR_GROUP_TIER_1
 
+/datum/gear/donator/raiqbawks
+	name = "Miami Boombox"
+	slot = ITEM_SLOT_HANDS
+	cost = 2
+	path = /obj/item/boombox/raiq
+	ckeywhitelist = list()
+	donator_group_id = DONATOR_GROUP_TIER_1
+
 /datum/gear/donator/neck_gaiter
 	name = "The Neck Gaiter"
 	slot = ITEM_SLOT_MASK
