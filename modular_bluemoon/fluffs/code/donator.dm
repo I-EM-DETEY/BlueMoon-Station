@@ -1912,5 +1912,5 @@
 	name = "Gubby Family Apron"
 	slot = ITEM_SLOT_OCLOTHING
 	path = /obj/item/clothing/suit/donator/bm/apronchef_red
-	ckeywhitelist = list("art_gel11")
-	donator_group_id = DONATOR_GROUP_TIER_1
+	ckeywhitelist = list("artgel11")
+
