@@ -507,4 +507,3 @@
 	icon_state = "apronchef_red"
 	item_state = "apronchef_red"
 	allowed = list(/obj/item/kitchen)
-	
